@@ -57,7 +57,6 @@ This tool is for educational and personal use only. Removing watermarks from cop
 📞 Contact
 If you have any issues or suggestions, feel free to contact me.
 
-Lass mich wissen, falls du Anpassungen möchtest! 😊
 
 
 
