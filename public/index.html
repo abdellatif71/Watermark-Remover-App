@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watermark Remover</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Watermark Remover</h1>
+    <p>Upload a PNG to remove watermarks easily.</p>
+
+    <form id="uploadForm">
+      <input type="file" id="fileInput" accept=".png" required>
+      <button type="submit">Remove Watermark</button>
+    </form>
+
+    <div id="status" class="status"></div>
+    <a id="downloadLink" href="#" target="_blank" style="display: none;">Download Result</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
